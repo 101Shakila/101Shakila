@@ -5,16 +5,16 @@ Creating Innovative Projects: I love turning ideas into reality, whether it's th
 -------------
 
 Muay Thai Enthusiast: Punching, kicking, and pushing my limits in the ring keeps me sharp and disciplined.
--------------
+
 
 Self-Improvement Advocate: I'm always on the lookout for ways to better myself, be it through learning or new experiences.
--------------
+
 
 Fitness Buff: Staying fit and healthy is a top priority for me—it's a lifestyle!
--------------
+
 
 Avid Traveler: I've got a wanderlust that takes me around the globe, exploring new cultures and places.
--------------
+
 
 🌱 Currently Learning:
 
