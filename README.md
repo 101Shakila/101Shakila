@@ -1,8 +1,7 @@
 👋 Hi there! I'm @101Shakila
 👀 Interests:
-
-Creating Innovative Projects: I love turning ideas into reality, whether it's through code or creative ventures.
 -------------
+Creating Innovative Projects: I love turning ideas into reality, whether it's through code or creative ventures.
 
 Muay Thai Enthusiast: Punching, kicking, and pushing my limits in the ring keeps me sharp and disciplined.
 
@@ -17,21 +16,17 @@ Avid Traveler: I've got a wanderlust that takes me around the globe, exploring n
 
 
 🌱 Currently Learning:
-
-React & Node.js: Diving deep into these technologies to build dynamic and responsive web applications.
 -------------
+React & Node.js: Diving deep into these technologies to build dynamic and responsive web applications.
 
 💞️ Looking to Collaborate On:
-
-Canadian Impact Projects: I'm passionate about working on initiatives that make a positive difference in Canada.
 -------------
+Canadian Impact Projects: I'm passionate about working on initiatives that make a positive difference in Canada.
 
 📫 How to Reach Me:
-
-Email: shakilamrofficial@gmail.com
 -------------
+Email: shakilamrofficial@gmail.com
 
 ⚡ Fun Fact:
-
-I've had the unique experience of living in Asia, the Middle East, and the West. This has given me a rich perspective on different cultures and lifestyles.
 -------------
+I've had the unique experience of living in Asia, the Middle East, and the West. This has given me a rich perspective on different cultures and lifestyles.
