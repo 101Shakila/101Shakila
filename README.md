@@ -4,11 +4,11 @@ I'm a developer based in Canada, and i'm passionate about crafting digital exper
 -------------
 🌱 ToolBox
 -------------
-Frontend Development: React HTML Css Javascript
+Frontend Development: React | HTML | Css | Javascript
 
-Version Control: Git GitLab
+Version Control: Git | GitLab
 
-Backend Development: Express.js MongoDB
+Backend Development: Express.js | MongoDB
 -------------
 💞️ Fun Facts
 -------------
