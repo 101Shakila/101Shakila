@@ -6,9 +6,10 @@ I'm a developer based in Canada, and i'm passionate about crafting digital exper
 -------------
 Frontend Development: React | HTML | Css | Javascript
 
+Backend Development: Express.js | MongoDB
+
 Version Control: Git | GitLab
 
-Backend Development: Express.js | MongoDB
 -------------
 💞️ Fun Facts
 -------------
